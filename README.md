@@ -1,6 +1,6 @@
 # Hello! ✌️😁
 
-My name is **Joel Jucá**. I am a Brazilian software engineer, specialized in full-stack web development. You can find me online at:
+My name is **Joel Jucá**. I am a Brazilian software engineer, specialized in web development. You can find me online at:
 
 - **LinkedIn:** [linkedin.com/in/joeljuca](https://www.linkedin.com/in/joeljuca/)
 - **Mastodon:** [functional.cafe/@joel](https://functional.cafe/@joel)
