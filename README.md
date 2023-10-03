@@ -2,9 +2,9 @@
 
 I'm **Joel** – a Brazilian software engineer focused on web development. You can find me online at:
 
-- **LinkedIn:** [linkedin.com/in/joeljuca](https://www.linkedin.com/in/joeljuca/)
-- **Mastodon:** [functional.cafe/@joel](https://functional.cafe/@joel)
 - **X:** [x.com/holyshtjoe](https://x.com/holyshtjoe)
+- **Mastodon:** [functional.cafe/@joel](https://functional.cafe/@joel)
+- **LinkedIn:** [linkedin.com/in/joeljuca](https://www.linkedin.com/in/joeljuca/)
 - **Website:** [joeljuca.com](https://joeljuca.com)
 
 ## 👨🏻‍💻 What I do
