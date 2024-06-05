@@ -23,12 +23,12 @@ In the past, I've built things with:
 - [Flash](https://en.wikipedia.org/wiki/Adobe_Flash) and [ActionScript](https://en.wikipedia.org/wiki/ActionScript)
 - [PHP](https://en.wikipedia.org/wiki/PHP) with [MySQL](https://en.wikipedia.org/wiki/MySQL), [WordPress](https://en.wikipedia.org/wiki/WordPress), [CodeIgniter](https://en.wikipedia.org/wiki/CodeIgniter), [CakePHP](https://en.wikipedia.org/wiki/CakePHP), and [Drupal](https://en.wikipedia.org/wiki/Drupal)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) with [Prototype](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework), [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript), and [AngularJS](https://angularjs.org)
-- [Node.js](https://en.wikipedia.org/wiki/Nodejs) with [Express](https://en.wikipedia.org/wiki/Express.js), [Sails.js](https://sailsjs.com), [Koa](https://koajs.com), and [Fastify](https://fastify.dev)
+- [Node.js](https://en.wikipedia.org/wiki/Nodejs) with [Express](https://en.wikipedia.org/wiki/Express.js), [Sails.js](https://sailsjs.com), [Koa](https://koajs.com), [Fastify](https://fastify.dev), and [NestJS](https://nestjs.com)
 
 ### ☮️ Open Source communities
 
 During my career, I've been very active in the Open Source – especially in communities. Currently, I am active in:
-- [Elug CE](https://elug-ce.github.io) (founder and CM – which stands for "Community Manager")
-- [GURU-CE](https://guru-ce.github.io) (CM)
+- [Elug CE](https://elug-ce.github.io) (founder & <em title="Community Manager">CM</em>)
+- [GURU-CE](https://guru-ce.github.io) (<em title="Community Manager">CM</em>)
 
 And I've also contributed in multiple roles to other communities like HoraExtraJP, GrudePB, and Drupal CE.
