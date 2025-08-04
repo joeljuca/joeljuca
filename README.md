@@ -1,7 +1,7 @@
 # Heya! 👋
 
 [![Joel Jucá on LinkedIn](https://img.shields.io/badge/joeljuca-blue?logo=linkedin "Joel Jucá on LinkedIn")](https://www.linkedin.com/in/joeljuca/ "Joel Jucá on LinkedIn")
-[![Joel Jucá on npm](https://img.shields.io/badge/joeljuca-white?logo=npm "Joel Jucá on npm")](https://www.npmjs.com/~joeljuca "Joel Jucá on npm")
+[![Joel Jucá on npm](https://img.shields.io/badge/joeljuca-red?logo=npm "Joel Jucá on npm")](https://www.npmjs.com/~joeljuca "Joel Jucá on npm")
 [![Joel Jucá on Hex](https://img.shields.io/badge/joeljuca-purple?logo=elixir "Joel Jucá on Hex")](https://hex.pm/users/joeljuca "Joel Jucá on Hex")
 [![Joel Jucá on Codeberg](https://img.shields.io/badge/joeljuca-white?logo=codeberg "Joel Jucá on Codeberg")](https://codeberg.org/joeljuca "Joel Jucá on Codeberg")
 
