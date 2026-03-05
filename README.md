@@ -16,29 +16,36 @@ I'm **Joel** – a Brazilian software engineer focused on web development. You c
 - **LinkedIn:** [linkedin.com/in/joeljuca](https://www.linkedin.com/in/joeljuca/)
 - **Website:** [joeljuca.com](https://joeljuca.com)
 
-## 👨🏻‍💻 What I do
-
-Today I mostly build web apps – both front end and back end, as well as full-stack apps, using:
-
-- [Elixir](https://elixir-lang.org) and [Phoenix](https://www.phoenixframework.org), [Absinthe](https://github.com/absinthe-graphql/absinthe) for real-time systems
-- [Ruby](https://www.ruby-lang.org) and [Rails](https://rubyonrails.org) for traditional web apps
-- [Node.js](https://en.wikipedia.org/wiki/Nodejs) and [Next.js](https://en.wikipedia.org/wiki/Next.js), [NestJS](https://en.wikipedia.org/wiki/NestJS) for web APIs
-- [React](https://react.dev) and [TypeScript](https://www.typescriptlang.org) for dynamic front-end apps
-- [PostgreSQL](https://www.postgresql.org) and [SQLite](https://www.sqlite.org) for relational data
-
-## 👴🏻 What I've done
+## 🧑🏻‍💻 My timeline in tech
 
 In the past, I've built things with:
 
-- [Node.js](https://en.wikipedia.org/wiki/Nodejs) with [Express](https://en.wikipedia.org/wiki/Express.js), [Sails.js](https://sailsjs.com), [Koa](https://koajs.com), [Fastify](https://fastify.dev), and [NestJS](https://nestjs.com)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) with [Prototype](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework), [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript), and [AngularJS](https://angularjs.org)
-- [PHP](https://en.wikipedia.org/wiki/PHP) with [MySQL](https://en.wikipedia.org/wiki/MySQL), [WordPress](https://en.wikipedia.org/wiki/WordPress), [CodeIgniter](https://en.wikipedia.org/wiki/CodeIgniter), [CakePHP](https://en.wikipedia.org/wiki/CakePHP), and [Drupal](https://en.wikipedia.org/wiki/Drupal)
-- [Flash](https://en.wikipedia.org/wiki/Adobe_Flash) and [ActionScript](https://en.wikipedia.org/wiki/ActionScript)
+| Period       | Tech                                                   | Notes                                                                                                                                                                                                                                                                   |
+| ------------ | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2018-present | [Elixir](https://elixir-lang.org)                      | Mostly fintechs and financial systems, using [Phoenix](https://www.phoenixframework.org) and [Absinthe](https://github.com/absinthe-graphql/absinthe), with [PostgreSQL](https://www.postgresql.org) and [SQLite](https://www.sqlite.org) for OLTP, [Apache Kafka](https://kafka.apache.org) and [RabbitMQ](https://www.rabbitmq.com) for stream processing, and [DuckDB](https://duckdb.org) for local OLAP |
+| 2016-present | [Ruby](https://www.ruby-lang.org)                      | Startups and apps of all imaginable industries, using mostly [Rails](https://rubyonrails.org) and simetimes [Sinatra](https://sinatrarb.com)                                                                                                                          |
+| 2013-present | [Node.js](https://en.wikipedia.org/wiki/Nodejs)        | The golden era of API-first SPAs and web apps, using [TypeScript](https://www.typescriptlang.org), [Express](https://en.wikipedia.org/wiki/Express.js), [Sails.js](https://sailsjs.com), [Koa](https://koajs.com), [Fastify](https://fastify.dev), [Next.js](https://en.wikipedia.org/wiki/Next.js), and [NestJS](https://nestjs.com)                                 |
+| 2007-present | [JavaScript](https://en.wikipedia.org/wiki/JavaScript) | with [React](https://react.dev), [AngularJS](https://angularjs.org), [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript), and [Prototype](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework)            |
+| 2006-2016    | [PHP](https://en.wikipedia.org/wiki/PHP)               | with [MySQL](https://en.wikipedia.org/wiki/MySQL), [Drupal](https://en.wikipedia.org/wiki/Drupal), [CakePHP](https://en.wikipedia.org/wiki/CakePHP), [CodeIgniter](https://en.wikipedia.org/wiki/CodeIgniter), and [WordPress](https://en.wikipedia.org/wiki/WordPress) |
+| 2002-2009    | [Flash](https://en.wikipedia.org/wiki/Adobe_Flash)     | with [ActionScript](https://en.wikipedia.org/wiki/ActionScript) 2.0, and later 3.0                                                                                                                                                                                      |
+
+## 🎁 Open Source projects
+
+Software I've written and made freely available, for you:
+
+| Project                                                  | &nbsp;                                                                          | GitHub                                                                       |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [asdf-chicken](https://github.com/joeljuca/asdf-chicken) | asdf plugin for [CHICKEN Scheme](https://www.call-cc.org)                       | [github.com/joeljuca/asdf-chicken](https://github.com/joeljuca/asdf-chicken) |
+| [asdf-gambit](https://github.com/joeljuca/asdf-gambit)   | asdf plugin for [Gambit Scheme](http://gambitscheme.org)                        | [github.com/joeljuca/asdf-gambit](https://github.com/joeljuca/asdf-gambit)   |
+| [sandboxes](https://github.com/joeljuca/sandboxes)       | A collection of sandboxes for quick experimentations                            | [github.com/joeljuca/sandboxes](https://github.com/joeljuca/sandboxes)       |
+| [SwissSchema](https://github.com/joeljuca/swiss_schema)  | A Swiss Army knife for your [Ecto](https://github.com/elixir-ecto/ecto) schemas | [github.com/joeljuca/swiss_schema](https://github.com/joeljuca/swiss_schema) |
 
 ### ☮️ Open Source communities
 
-During my career, I've been very active in the Open Source – especially in communities. Currently, I am active in:
+I'm often active in the Open Source communities. Currently, I am active in:
+
+- [Elixir Brasil](https://t.me/elixirbr) (<em title="Community Manager">CM</em>)
 - [Elug CE](https://elug-ce.github.io) (founder & <em title="Community Manager">CM</em>)
 - [GURU-CE](https://guru-ce.github.io) (<em title="Community Manager">CM</em>)
 
-And I've also contributed in multiple roles to other communities like HoraExtraJP, GrudePB, and Drupal CE.
+And I've also contributed in multiple roles to other communities in the past, like: HoraExtraJP, GrudePB, and Drupal CE, and CEPUG (Ceará PHP User Group).
