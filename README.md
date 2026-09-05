@@ -46,6 +46,7 @@ Software I've written and made freely available, for you:
 
 I'm often active in the Open Source communities. Currently, I am active in:
 
+- [BEAM Community](https://github.com/beam-community) (co-maintainer)
 - [Elixir Brasil](https://t.me/elixirbr) (<em title="Community Manager">CM</em>)
 - [Elug CE](https://elug-ce.github.io) (founder & <em title="Community Manager">CM</em>)
 - [GURU-CE](https://guru-ce.github.io) (<em title="Community Manager">CM</em>)
